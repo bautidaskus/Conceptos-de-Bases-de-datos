@@ -8,33 +8,35 @@ program ejercicio2;
 
 //declaro las variables necesarias
 var
-  archivo: file of integer;
+  archivo:text;
   nombre: string;
   votos, min, max: integer;
 
 begin
-  //hago el programa
-  //corrijo los errores de compilacion
-
-    writeln('Ingrese el nombre del archivo a procesar');
-    readln(nombre);
-    assign(archivo, nombre);
-    reset(archivo);
+//pido el nombre del archivo
+  writeln('Ingrese el nombre del archivo');
+  readln(nombre);
+//abro el archivo
+  assign(archivo, nombre);
+  reset(archivo);
+//inicializo las variables
+  min:=9999;
+  max:=0;
+//recorro el archivo
+  while not eof(archivo) do begin
     read(archivo, votos);
-    min:= votos;
-    max:= votos;
-    while (not eof(archivo)) do
-    begin;
-      writeln(votos);
-      if votos < min then
-        min:= votos;
-      if votos > max then
-        max:= votos;
-      read(archivo, votos);
-    end;
-    writeln('El minimo de votos es: ', min);
-    writeln('El maximo de votos es: ', max);
-    close(archivo);
-    readln;
+    writeln(votos);
+    if votos < min then
+      min:=votos;
+    if votos > max then
+      max:=votos;
+  end;
+//informo los resultados
+  writeln('El minimo de votos es: ', min);
+  writeln('El maximo de votos es: ', max);
+//cierro el archivo
+  close(archivo);
+  readln;
+
 end. 
 

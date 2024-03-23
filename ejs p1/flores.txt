@@ -1,0 +1,30 @@
+Numero de especie: 1
+Nombre cientifico: a
+Nombre vulgar: a
+Color: azul
+Altura maxima que alcanza: 10.00
+Numero de especie: 2
+Nombre cientifico: b
+Nombre vulgar: b
+Color: b
+Altura maxima que alcanza: 15.00
+Numero de especie: 3
+Nombre cientifico: c
+Nombre vulgar: c
+Color: c
+Altura maxima que alcanza: 4.00
+Numero de especie: 4
+Nombre cientifico: d
+Nombre vulgar: 
+Color: d
+Altura maxima que alcanza: 34.00
+Numero de especie: 5
+Nombre cientifico: e
+Nombre vulgar: e
+Color: e
+Altura maxima que alcanza: 1.00
+Numero de especie: 6
+Nombre cientifico: f
+Nombre vulgar: f
+Color: f
+Altura maxima que alcanza: 65.00
