@@ -1,0 +1,30 @@
+123456789
+1001
+Juan Perez
+Calle Falsa 123
+4
+15/05/2005
+987654321
+1002
+María López
+Av. Principal 456
+3
+20/11/2006
+111223344
+1003
+Pedro Gómez
+Rivadavia 789
+5
+10/07/2004
+555666777
+1004
+Ana Rodríguez
+Bv. Norte 321
+2
+25/09/2007
+888999000
+1005
+Lucas Martínez
+San Martín 654
+1
+03/12/2008

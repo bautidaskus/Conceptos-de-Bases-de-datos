@@ -1,0 +1,30 @@
+1234567890123 El principito
+1943 Editorial Sudamericana
+Infantil
+1234567890124 El tunel
+1948 Editorial Losada
+Novela
+1234567890125 El amor en los tiempos del colera
+1985 Editorial Sudamericana
+Novela
+1234567890126 El arte de amar
+1956 Editorial Paidos
+Ensayo
+1234567890127 El psicoanalista
+2002 Editorial Planeta
+Novela
+1234567890128 El hombre en busca de sentido
+1946 Editorial Herder
+Ensayo
+1234567890129 El perfume
+1985 Editorial Seix Barral
+Novela
+1234567890130 El alquimista
+1988 Editorial Planeta
+Novela
+1234567890131 El caballero de la armadura oxidada
+1984 Editorial Obelisco
+Autoayuda
+1234567890132 El arte de la guerra
+500 Editorial Sudamericana
+Ensayo
